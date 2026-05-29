@@ -64,7 +64,8 @@
               "buildTarget": "dip-recording:build:production"
             },
             "development": {
-              "buildTarget": "dip-recording:build:development"
+              "buildTarget": "dip-recording:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

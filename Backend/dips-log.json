@@ -1,0 +1,74 @@
+[
+    {
+        "timestamp": "2026-05-29T17:00:27+02:00",
+        "date": "2026-05-29",
+        "readings": {
+            "regular": 10,
+            "supreme": 20,
+            "diesel": 30,
+            "furnaceOil": 40
+        },
+        "liters": {
+            "regular": 17,
+            "supreme": 18,
+            "diesel": 16,
+            "furnaceOil": 19
+        },
+        "fileName": null,
+        "emailStatus": "not sent"
+    },
+    {
+        "timestamp": "2026-05-29T17:01:04+02:00",
+        "date": "2026-05-29",
+        "readings": {
+            "regular": 200,
+            "supreme": 200,
+            "diesel": 200,
+            "furnaceOil": 200
+        },
+        "liters": {
+            "regular": 10443,
+            "supreme": 310,
+            "diesel": 290,
+            "furnaceOil": 320
+        },
+        "fileName": null,
+        "emailStatus": "not sent"
+    },
+    {
+        "timestamp": "2026-05-29T17:01:09+02:00",
+        "date": "2026-05-29",
+        "readings": {
+            "regular": 200,
+            "supreme": 200,
+            "diesel": 200,
+            "furnaceOil": 200
+        },
+        "liters": {
+            "regular": 10443,
+            "supreme": 310,
+            "diesel": 290,
+            "furnaceOil": 320
+        },
+        "fileName": null,
+        "emailStatus": "not sent"
+    },
+    {
+        "timestamp": "2026-05-29T17:01:13+02:00",
+        "date": "2026-05-29",
+        "readings": {
+            "regular": 200,
+            "supreme": 200,
+            "diesel": 200,
+            "furnaceOil": 200
+        },
+        "liters": {
+            "regular": 10443,
+            "supreme": 310,
+            "diesel": 290,
+            "furnaceOil": 320
+        },
+        "fileName": null,
+        "emailStatus": "not sent"
+    }
+]
